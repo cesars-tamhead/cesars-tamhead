@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="570" height="530" viewBox="0 0 570 530">
+<rect width="100%" height="100%" rx="14" fill="#001b2e"/>
+<rect x="1" y="1" width="568" height="528" rx="13" fill="none" stroke="#FFCB05" stroke-width="2"/>
+<circle cx="24" cy="24" r="6" fill="#ff5f56"/><circle cx="44" cy="24" r="6" fill="#ffbd2e"/><circle cx="64" cy="24" r="6" fill="#27c93f"/>
+<text x="285" y="29" text-anchor="middle" fill="#9aa7b4" font-family="ui-monospace,monospace" font-size="13">cesar@umich: ~</text>
+<line x1="16" y1="44" x2="554" y2="44" stroke="#28485f"/>
+<style>.line{opacity:0;transform:translateY(7px);animation:in .35s forwards}@keyframes in{to{opacity:1;transform:translateY(0)}}text{font-family:ui-monospace,SFMono-Regular,Consolas,monospace}</style>
+<text class="line" x="24" y="83" fill="#FFCB05" font-size="20" font-weight="700" style="animation-delay:.1s">$ whoami</text>
+<g class="line" style="animation-delay:0.25s"><text x="24" y="125" fill="#FFCB05" font-size="14">name       </text><text x="142" y="125" fill="#E6EEF4" font-size="14">Cesar Sierra</text></g>
+<g class="line" style="animation-delay:0.39s"><text x="24" y="171" fill="#FFCB05" font-size="14">school     </text><text x="142" y="171" fill="#E6EEF4" font-size="14">University of Michigan</text></g>
+<g class="line" style="animation-delay:0.53s"><text x="24" y="217" fill="#FFCB05" font-size="14">focus      </text><text x="142" y="217" fill="#E6EEF4" font-size="14">Neuroscience + Data Science</text></g>
+<g class="line" style="animation-delay:0.67s"><text x="24" y="263" fill="#FFCB05" font-size="14">research   </text><text x="142" y="263" fill="#E6EEF4" font-size="14">Computational Neuroscience</text></g>
+<g class="line" style="animation-delay:0.81s"><text x="24" y="309" fill="#FFCB05" font-size="14">interests  </text><text x="142" y="309" fill="#E6EEF4" font-size="14">EEG • Hippocampus • Ion Channels</text></g>
+<g class="line" style="animation-delay:0.95s"><text x="24" y="355" fill="#FFCB05" font-size="14">stack      </text><text x="142" y="355" fill="#E6EEF4" font-size="14">Python • C++ • R • Data Viz</text></g>
+<g class="line" style="animation-delay:1.09s"><text x="24" y="401" fill="#FFCB05" font-size="14">currently  </text><text x="142" y="401" fill="#E6EEF4" font-size="14">UROP • Michigan Data Science Team</text></g>
+<g class="line" style="animation-delay:1.23s"><text x="24" y="447" fill="#FFCB05" font-size="14">goal       </text><text x="142" y="447" fill="#E6EEF4" font-size="14">Pediatric Neurology + Clinical Research</text></g>
+<text class="line" x="24" y="503" fill="#78A9D4" font-size="13" style="animation-delay:1.55s">building at the intersection of brains + data_</text>
+</svg>
