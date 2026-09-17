@@ -1,55 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="430" height="530" viewBox="0 0 430 530">
-<rect width="100%" height="100%" rx="14" fill="#001b2e"/>
-<rect x="1" y="1" width="428" height="528" rx="13" fill="none" stroke="#FFCB05" stroke-width="2"/>
-<style>text{font-family:ui-monospace,SFMono-Regular,Consolas,monospace;font-size:8.2px;font-weight:700;white-space:pre}.row{opacity:0;animation:show .12s forwards}@keyframes show{to{opacity:1}}</style>
-<text class="row" x="12" y="18" fill="#FFCB05" style="animation-delay:0.000s">###*#*********+*++++++++++=+++++++++++++++++++********#*####</text>
-<text class="row" x="12" y="28" fill="#FFCB05" style="animation-delay:0.045s">##**************+++++++++============+++++++++*+*******#####</text>
-<text class="row" x="12" y="38" fill="#FFCB05" style="animation-delay:0.090s">***************++++++++======+###%#*+====++=+++**********###</text>
-<text class="row" x="12" y="48" fill="#FFCB05" style="animation-delay:0.135s">*#*************+++=+++=+**###%@@@@@@@%+====+++++++*******###</text>
-<text class="row" x="12" y="58" fill="#FFCB05" style="animation-delay:0.180s">************+++++=====+##%@@@@@@@@@@@@@*===+++++++*******###</text>
-<text class="row" x="12" y="68" fill="#FFCB05" style="animation-delay:0.225s">***********+++++===+*##%%@@@@@@@@@@@@@@@*===++++++******####</text>
-<text class="row" x="12" y="78" fill="#FFCB05" style="animation-delay:0.270s">*******++++++++===*%%@@@@@@@@@@@@@@@@@@@@#==+++++**********#</text>
-<text class="row" x="12" y="88" fill="#FFCB05" style="animation-delay:0.315s">*******+++++=++==+@%#@@@@@@@@@@@@@@@@@@@@@#==++++++*****####</text>
-<text class="row" x="12" y="98" fill="#FFCB05" style="animation-delay:0.360s">******++++======-*@@#%@@@##%@@@@@@@@@@@@@@@#=++++++******###</text>
-<text class="row" x="12" y="108" fill="#FFCB05" style="animation-delay:0.405s">****++++========-*@@%%@*:..:=+++*#%@@@@@@@@@*=++++++********</text>
-<text class="row" x="12" y="118" fill="#FFCB05" style="animation-delay:0.450s">*****++========--*@@@@*.  ..::-==+*#%@@@@@@@@+=++++++*******</text>
-<text class="row" x="12" y="128" fill="#78A9D4" style="animation-delay:0.495s">*****+++===------+@@@*:   .::::-==+*#%@@@@@@@%==+++++*******</text>
-<text class="row" x="12" y="138" fill="#78A9D4" style="animation-delay:0.540s">++++++++====-----#@@#:    .:..::-==+*#@@@@@@@@+=++++++******</text>
-<text class="row" x="12" y="148" fill="#78A9D4" style="animation-delay:0.585s">**++++++====-----%@@=     .:...:--=++*#@@@@@@@+==+++++******</text>
-<text class="row" x="12" y="158" fill="#78A9D4" style="animation-delay:0.630s">*+++++++====-----#@%.  ..::-:----====++#@@@@@@=====++++*****</text>
-<text class="row" x="12" y="168" fill="#78A9D4" style="animation-delay:0.675s">++++++++====----:*@*-+###+=:-=+*#%#***++%@@@@%=======++*****</text>
-<text class="row" x="12" y="178" fill="#78A9D4" style="animation-delay:0.720s">+++++========---###+=+*%@@*=*#%@@@@@@%#*#@@@@#-====++++*****</text>
-<text class="row" x="12" y="188" fill="#78A9D4" style="animation-delay:0.765s">++++=======-----%*+=-=*#%%@%@%%%##*##%@@%#@@@*-====++++*****</text>
-<text class="row" x="12" y="198" fill="#78A9D4" style="animation-delay:0.810s">*++++=====-----:*+*-+##@@%+-%%%%%%%%###@#%%@@=-====+++++*+**</text>
-<text class="row" x="12" y="208" fill="#78A9D4" style="animation-delay:0.855s">+++++++===----::++-.:-*##*.:#%%%%@@%%**#+#@%*--=====+++++***</text>
-<text class="row" x="12" y="218" fill="#78A9D4" style="animation-delay:0.900s">*++++++==------:=*.  :=-=: =*%######*+#*+#@*+--======++++***</text>
-<text class="row" x="12" y="228" fill="#78A9D4" style="animation-delay:0.945s">*++++=====------:=-:---== :=+###***+++#++#%+=---====++++****</text>
-<text class="row" x="12" y="238" fill="#78A9D4" style="animation-delay:0.990s">**++======-------. .:===  -=++#%####**+=+*%+----=====++++***</text>
-<text class="row" x="12" y="248" fill="#78A9D4" style="animation-delay:1.035s">**+++=======-----.  .:=: .===++++=======++#+----=====+++***#</text>
-<text class="row" x="12" y="258" fill="#78A9D4" style="animation-delay:1.080s">*++++========----. .:--:+=+#+=++=----==++++=::--=====+++**##</text>
-<text class="row" x="12" y="268" fill="#78A9D4" style="animation-delay:1.125s">+++++=======-----:.:-=: -=+##+=+=---==+++++=::--====+++***##</text>
-<text class="row" x="12" y="278" fill="#78A9D4" style="animation-delay:1.170s">++++++=======----:.-=+:::==**+=======+++++=-:---===++++*****</text>
-<text class="row" x="12" y="288" fill="#78A9D4" style="animation-delay:1.215s">++++++=======--:-:.-+#=--==+##***===++++*=::---===++++++****</text>
-<text class="row" x="12" y="298" fill="#78A9D4" style="animation-delay:1.260s">***+++++=====-----::+#*=++*####%#*=++++**-:----====+++++****</text>
-<text class="row" x="12" y="308" fill="#78A9D4" style="animation-delay:1.305s">***+++++++===-----::==:.:-+**#%%%*+++***+:---=====+++++++***</text>
-<text class="row" x="12" y="318" fill="#78A9D4" style="animation-delay:1.350s">++**++++=====------:-...-==+++***+++****+=--======++++++***#</text>
-<text class="row" x="12" y="328" fill="#78A9D4" style="animation-delay:1.395s">++**++++====-------::..-+%#*+++++++**##*-#=--====++++++****#</text>
-<text class="row" x="12" y="338" fill="#78A9D4" style="animation-delay:1.440s">**++++++++====------:.::+%%*+++++***###* #%---====++++*****#</text>
-<text class="row" x="12" y="348" fill="#78A9D4" style="animation-delay:1.485s">***++*++++====-------:.:+##+++++***###*. %@%=-===+++++***##*</text>
-<text class="row" x="12" y="358" fill="#78A9D4" style="animation-delay:1.530s">*******+++===-----=+*:++#%#**++**#%%#*. -@@@%*===++++****###</text>
-<text class="row" x="12" y="368" fill="#78A9D4" style="animation-delay:1.575s">*****+++++===--=+#%%#.#%%@%%%#*##%%#=   #@@@@@%#++++*****###</text>
-<text class="row" x="12" y="378" fill="#78A9D4" style="animation-delay:1.620s">*****++++====+#%@@%%# -@@@@@@%#%%%*:   -@@@@@@@@@#*++****###</text>
-<text class="row" x="12" y="388" fill="#78A9D4" style="animation-delay:1.665s">*#***++++**##%@@@%%%#  :#@@@%####-     %@@@@@@@@@@@%#***####</text>
-<text class="row" x="12" y="398" fill="#78A9D4" style="animation-delay:1.710s">******####%%%@@%%#%@%   .+*++**=.     +@@@@@@@@@@@@@@@%#####</text>
-<text class="row" x="12" y="408" fill="#78A9D4" style="animation-delay:1.755s">**#%%%%%%%%@@@%%%%@@%     -==-       :@@@@@@@@@@@@@@@@@@%%##</text>
-<text class="row" x="12" y="418" fill="#78A9D4" style="animation-delay:1.800s">*%@%%%%%@@@@@@@%%@@@*   .+==-        *@@@@@@@@@@@@@@@@@@@@@%</text>
-<text class="row" x="12" y="428" fill="#78A9D4" style="animation-delay:1.845s">%@%%%%@@@@@@@@@@@%@@=  :%@@@@=      .@@@@@@@@@@@@@@@@@@@@@@@</text>
-<text class="row" x="12" y="438" fill="#FFCB05" style="animation-delay:1.890s">@@@@@@@@@@@@@@@@@%@@. .#@%@@@@+     +@@@@@@@@@@@@@@@@@@@@@@@</text>
-<text class="row" x="12" y="448" fill="#FFCB05" style="animation-delay:1.935s">@@@@@@@@@@@@@@@@@%@#  ==#%@@@@#-   .@@@@@@@@@@@@@@@@@@@@@@@@</text>
-<text class="row" x="12" y="458" fill="#FFCB05" style="animation-delay:1.980s">@@@@@@@@@@@@@@@@@@@* .  =@@@%=.    *@@@@@@@@@@@@@@@@@@@@@@@@</text>
-<text class="row" x="12" y="468" fill="#FFCB05" style="animation-delay:2.025s">@@@@@@@@@@@@@@@@%@@+    *@@@+     :@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-<text class="row" x="12" y="478" fill="#FFCB05" style="animation-delay:2.070s">@@@@@@@@@@@@@@@@@@@-   .%@@@+     +@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-<text class="row" x="12" y="488" fill="#FFCB05" style="animation-delay:2.115s">@@@@@@@@@@@@@@@@@@%:   *@@@@*    .%@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-<text class="row" x="12" y="498" fill="#FFCB05" style="animation-delay:2.160s">@@@@@@@@@@@@@@@@@@#.  -@@@@@#    =@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-<text class="row" x="12" y="508" fill="#FFCB05" style="animation-delay:2.205s">@@@@@@@@@@@@@@@@@@*   #@@@@@*    %@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="530" viewBox="0 0 430 530" role="img" aria-labelledby="title desc">
+  <title id="title">Animated Michigan M</title>
+  <desc id="desc">A block M changes every five seconds between maize on blue and blue on maize.</desc>
+  <style>
+    .background { animation: backgroundFlip 10s steps(1, end) infinite; }
+    .mark { animation: markFlip 10s steps(1, end) infinite; }
+    .border { animation: borderFlip 10s steps(1, end) infinite; }
+    @keyframes backgroundFlip {
+      0%, 49.999% { fill: #00274C; }
+      50%, 100% { fill: #FFCB05; }
+    }
+    @keyframes markFlip {
+      0%, 49.999% { fill: #FFCB05; }
+      50%, 100% { fill: #00274C; }
+    }
+    @keyframes borderFlip {
+      0%, 49.999% { stroke: #FFCB05; }
+      50%, 100% { stroke: #00274C; }
+    }
+  </style>
+  <rect class="background" width="430" height="530" rx="22" fill="#00274C"/>
+  <rect class="border" x="3" y="3" width="424" height="524" rx="19" fill="none" stroke="#FFCB05" stroke-width="6"/>
+  <path class="mark" fill="#FFCB05" d="M55 390V140h82l78 128 78-128h82v250h-80V270l-80 126-80-126v120H55zm80-178v18l80 126 80-126v-18h-36l-44 72-44-72h-36z"/>
 </svg>
