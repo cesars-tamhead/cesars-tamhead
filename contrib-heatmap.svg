@@ -355,7 +355,7 @@
 <rect class="day" x="779" y="143" width="11" height="11" rx="2" fill="#142C3D" style="animation-delay:0.648s"/>
 <rect class="day" x="779" y="158" width="11" height="11" rx="2" fill="#142C3D" style="animation-delay:0.660s"/>
 <rect class="day" x="794" y="68" width="11" height="11" rx="2" fill="#142C3D" style="animation-delay:0.600s"/>
-<rect class="day" x="794" y="83" width="11" height="11" rx="2" fill="#FFD94A" style="animation-delay:0.612s"/>
+<rect class="day" x="794" y="83" width="11" height="11" rx="2" fill="#4F83A7" style="animation-delay:0.612s"/>
 <rect class="day" x="794" y="98" width="11" height="11" rx="2" fill="#142C3D" style="animation-delay:0.624s"/>
 <rect class="day" x="794" y="113" width="11" height="11" rx="2" fill="#142C3D" style="animation-delay:0.636s"/>
 <rect class="day" x="794" y="128" width="11" height="11" rx="2" fill="#142C3D" style="animation-delay:0.648s"/>
@@ -368,11 +368,12 @@
 <rect class="day" x="809" y="128" width="11" height="11" rx="2" fill="#142C3D" style="animation-delay:0.660s"/>
 <rect class="day" x="809" y="143" width="11" height="11" rx="2" fill="#142C3D" style="animation-delay:0.672s"/>
 <rect class="day" x="809" y="158" width="11" height="11" rx="2" fill="#142C3D" style="animation-delay:0.684s"/>
-<rect class="day" x="824" y="68" width="11" height="11" rx="2" fill="#FFD94A" style="animation-delay:0.624s"/>
+<rect class="day" x="824" y="68" width="11" height="11" rx="2" fill="#4F83A7" style="animation-delay:0.624s"/>
 <rect class="day" x="824" y="83" width="11" height="11" rx="2" fill="#142C3D" style="animation-delay:0.636s"/>
 <rect class="day" x="824" y="98" width="11" height="11" rx="2" fill="#FFD94A" style="animation-delay:0.648s"/>
 <rect class="day" x="824" y="113" width="11" height="11" rx="2" fill="#FFD94A" style="animation-delay:0.660s"/>
-<text x="24" y="171" fill="#E6EEF4" font-size="12">15 contributions in the last year</text>
+<rect class="day" x="824" y="128" width="11" height="11" rx="2" fill="#142C3D" style="animation-delay:0.672s"/>
+<text x="24" y="171" fill="#E6EEF4" font-size="12">16 contributions in the last year</text>
 <text x="695" y="171" fill="#78A9D4" font-size="11">Less</text>
 <rect x="730" y="161" width="10" height="10" rx="2" fill="#142C3D"/>
 <rect x="745" y="161" width="10" height="10" rx="2" fill="#365F7B"/>
