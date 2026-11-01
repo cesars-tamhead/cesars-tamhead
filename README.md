@@ -1,23 +1,14 @@
-<table>
-  <tr>
-    <td width="150" valign="top">
-      <h3>Languages</h3>
-      <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/python/python-original.svg" width="22" height="22" alt="" />&nbsp; Python</p>
-      <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/r/r-original.svg" width="22" height="22" alt="" />&nbsp; R</p>
-      <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/cplusplus/cplusplus-original.svg" width="22" height="22" alt="" />&nbsp; C++</p>
-      <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/html5/html5-original.svg" width="22" height="22" alt="" />&nbsp; HTML</p>
-      <br />
-      <p><a href="https://cesar-researchportfolio.com/">Research portfolio ↗</a></p>
-      <p><a href="https://www.linkedin.com/in/cesar-sierra-tamhead">LinkedIn ↗</a></p>
-    </td>
-    <td width="710" valign="top">
-      <img src="./assets/welcome-neuron.gif" width="710" alt="WELCOME: a blue brain opens to reveal a neuron and CESAR SIERRA. An automatic introduction without slides or controls." />
-      <h2>Understanding brains.<br />Building models.</h2>
-      <p>I study neuroscience and data science at the University of Michigan, work with the TaD Lab on the SAND study, and develop EEG projects exploring how computation can help us understand neural signals.</p>
-      <a href="https://github.com/cesars-tamhead?tab=overview"><img src="./contrib-heatmap.svg" width="710" alt="My GitHub contribution activity in Michigan blue and maize, refreshed daily." /></a>
-      <br /><br />
-      <img src="./assets/research-direction.svg" width="710" alt="Research direction: early-life stress, hippocampal development, and neuronal excitability. Interested in how stress and potassium-channel regulation shape the developing brain, and how transcriptomics can help investigate those pathways." />
-      <p><a href="https://cesar-researchportfolio.com/">Explore my research portfolio ↗</a></p>
-    </td>
-  </tr>
-</table>
+# Profile artwork
+
+The profile README uses a GIF for the brain-to-neuron introduction because GitHub does not execute page scripts in READMEs. The GIF plays once and holds on the name and neuron; it has no slides or controls.
+
+To rebuild it, install Node 20 or later and ffmpeg, then run from the repository root:
+
+```sh
+npm install
+npm run render:intro
+```
+
+The renderer uses the reduced original brain/neuron geometry in `assets/intro-geometry.json` and the original title font. The PNG check frames it produces are ignored by Git.
+
+The existing daily `Update contribution art` workflow fetches public contribution data and rebuilds `contrib-heatmap.svg` with the Michigan blue-and-maize palette. It can also be started manually in GitHub Actions. The calendar is static SVG so it does not depend on animation support to remain visible.

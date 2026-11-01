@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="278" viewBox="0 0 860 278" role="img" aria-labelledby="title desc">
+  <title id="title">Research direction</title>
+  <desc id="desc">Early-life stress. Hippocampal development. Neuronal excitability. Interested in how stress and potassium-channel regulation shape the developing brain, and how transcriptomics can help investigate those pathways.</desc>
+  <rect width="860" height="278" fill="#171717"/>
+  <g fill="#f3f1eb" font-family="Arial, Helvetica, sans-serif">
+    <text x="30" y="38" font-family="monospace" font-size="13" letter-spacing="2">RESEARCH DIRECTION</text>
+    <text x="30" y="91" font-size="34" letter-spacing="-.8">Early-life stress.</text>
+    <text x="30" y="132" font-size="34" letter-spacing="-.8">Hippocampal development.</text>
+    <text x="30" y="173" font-size="34" letter-spacing="-.8">Neuronal excitability.</text>
+    <text x="30" y="219" font-size="16" fill="#c7c4bd">Interested in how stress and potassium-channel regulation shape the developing brain,</text>
+    <text x="30" y="244" font-size="16" fill="#c7c4bd">and how transcriptomics can help investigate those pathways.</text>
+  </g>
+</svg>
