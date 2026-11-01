@@ -1,0 +1,7 @@
+{
+  "name": "cesar-sierra-profile-art",
+  "private": true,
+  "type": "module",
+  "scripts": { "render:intro": "node scripts/render_intro.mjs" },
+  "devDependencies": { "@napi-rs/canvas": "0.1.100", "three": "0.180.0" }
+}

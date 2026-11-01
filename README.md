@@ -1,29 +1,23 @@
-<div align="center">
-
-### `cesar@umich ~ $ ./contributions.sh`
-
-<img src="./contrib-heatmap.svg" width="860" alt="Animated GitHub contribution heatmap" />
-
-<br>
-
-### `cesar@umich ~ $ whoami`
-
 <table>
   <tr>
-    <td valign="top"><img src="./cesar-ascii.svg" width="390" alt="Animated ASCII portrait of Cesar Sierra" /></td>
-    <td valign="top"><img src="./info-card.svg" width="470" alt="Cesar Sierra profile information" /></td>
+    <td width="150" valign="top">
+      <h3>Languages</h3>
+      <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/python/python-original.svg" width="22" height="22" alt="" />&nbsp; Python</p>
+      <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/r/r-original.svg" width="22" height="22" alt="" />&nbsp; R</p>
+      <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/cplusplus/cplusplus-original.svg" width="22" height="22" alt="" />&nbsp; C++</p>
+      <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/html5/html5-original.svg" width="22" height="22" alt="" />&nbsp; HTML</p>
+      <br />
+      <p><a href="https://cesar-researchportfolio.com/">Research portfolio ↗</a></p>
+      <p><a href="https://www.linkedin.com/in/cesar-sierra-tamhead">LinkedIn ↗</a></p>
+    </td>
+    <td width="710" valign="top">
+      <img src="./assets/welcome-neuron.gif" width="710" alt="WELCOME: a blue brain opens to reveal a neuron and CESAR SIERRA. An automatic introduction without slides or controls." />
+      <h2>Understanding brains.<br />Building models.</h2>
+      <p>I study neuroscience and data science at the University of Michigan, work with the TaD Lab on the SAND study, and develop EEG projects exploring how computation can help us understand neural signals.</p>
+      <a href="https://github.com/cesars-tamhead?tab=overview"><img src="./contrib-heatmap.svg" width="710" alt="My GitHub contribution activity in Michigan blue and maize, refreshed daily." /></a>
+      <br /><br />
+      <img src="./assets/research-direction.svg" width="710" alt="Research direction: early-life stress, hippocampal development, and neuronal excitability. Interested in how stress and potassium-channel regulation shape the developing brain, and how transcriptomics can help investigate those pathways." />
+      <p><a href="https://cesar-researchportfolio.com/">Explore my research portfolio ↗</a></p>
+    </td>
   </tr>
 </table>
-
-<br>
-
-### `currently_exploring()`
-
-Neuronal excitability · EEG analysis · hippocampal physiology · trustworthy healthcare AI
-
-[![University of Michigan](https://img.shields.io/badge/University_of_Michigan-00274C?style=for-the-badge&logoColor=FFCB05)](https://umich.edu/)
-![Python](https://img.shields.io/badge/Python-00274C?style=for-the-badge&logo=python&logoColor=FFCB05)
-![C++](https://img.shields.io/badge/C++-00274C?style=for-the-badge&logo=cplusplus&logoColor=FFCB05)
-![R](https://img.shields.io/badge/R-00274C?style=for-the-badge&logo=r&logoColor=FFCB05)
-
-</div>
