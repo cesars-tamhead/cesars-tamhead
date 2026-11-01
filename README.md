@@ -2,10 +2,8 @@
   <tr>
     <td width="40%" valign="top">
       <h3>Languages</h3>
-      <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/python/python-original.svg" width="22" height="22" alt="" />&nbsp; Python</p>
-      <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/r/r-original.svg" width="22" height="22" alt="" />&nbsp; R</p>
-      <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/cplusplus/cplusplus-original.svg" width="22" height="22" alt="" />&nbsp; C++</p>
-      <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/html5/html5-original.svg" width="22" height="22" alt="" />&nbsp; HTML</p>
+      <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/python/python-original.svg" width="22" height="22" alt="" />&nbsp; Python &emsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/r/r-original.svg" width="22" height="22" alt="" />&nbsp; R</p>
+      <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/cplusplus/cplusplus-original.svg" width="22" height="22" alt="" />&nbsp; C++ &emsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/html5/html5-original.svg" width="22" height="22" alt="" />&nbsp; HTML</p>
       <br />
       <p><a href="https://cesar-researchportfolio.com/">Research portfolio ↗</a></p>
       <p><a href="https://www.linkedin.com/in/cesar-sierra-tamhead">LinkedIn ↗</a></p>
